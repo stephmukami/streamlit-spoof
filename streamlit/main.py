@@ -1,10 +1,8 @@
 import streamlit as st
-from streamlit_image_comparison import image_comparison
 import PIL.Image
 import io
 import hashlib
 import random
-import numpy as np
 import piexif
 import tempfile
 
