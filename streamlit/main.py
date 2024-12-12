@@ -5,6 +5,7 @@ import hashlib
 import random
 import piexif
 import tempfile
+import numpy as np
 
 # Include your functions here (shortened for readability)
 def image_to_bytes(image, exif_data=None):
